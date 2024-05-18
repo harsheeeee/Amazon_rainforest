@@ -1,4 +1,6 @@
 # Amazon_rainforest
+
+### MACHINE_LEARNING_PROJECT
 ## Objective
 The main objective of this project is to develop models that accurately forecast the area of deforestation in the Amazon rainforest. This involves understanding historical trends in deforestation, identifying factors contributing to deforestation, and building predictive models to anticipate future deforestation patterns. The ultimate goal is to provide insights that can inform policymakers and stakeholders to take proactive measures in preserving the Amazon rainforest.
 
